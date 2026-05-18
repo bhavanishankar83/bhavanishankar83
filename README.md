@@ -5,7 +5,7 @@
 ### 🐧 Linux Administrator · 🔐 Infrastructure Security · ⚙️ Automation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhavanishankar83-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavanishankar83)
-[![Email](https://img.shields.io/badge/Email-bhavanishankarmarudi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavanishankarmarudi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-bhavanishankarmarudi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavanishankarmarudi@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Hyderabad-India-FF6B35?style=for-the-badge)](#)
 
 </div>

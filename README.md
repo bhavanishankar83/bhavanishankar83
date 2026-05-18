@@ -1,5 +1,4 @@
 <div align="center">
-```
 
 # Bhavani Shankar Reddy Marudi
 
@@ -133,15 +132,6 @@ Full Wazuh SIEM stack deployment with real-time threat monitoring.
 | 🩹 **100% CVE Compliance** | Full patch compliance across entire server fleet |
 | ⚡ **60% Effort Reduction** | Admin workload cut via Bash scripting & Ansible automation |
 | 🔐 **10+ Servers Hardened** | SSH, firewall, SELinux, ACL policies enforced fleet-wide |
-
----
-
-## 📜 Certifications
-
-| Certification | Status | Provider |
-|--------------|--------|----------|
-| CompTIA Linux+ | 🔄 In Progress | CompTIA |
-| RHCSA — Red Hat Certified System Administrator | 🔄 In Progress | Red Hat |
 
 ---
 
